@@ -14,4 +14,10 @@ Changed to SMA connectors directly on the board, to more easily connect the outp
 
 Avoiding SMD components as much as possible, as science students (who aren't electronics specialists) often struggle with them.
 
+PCB is 100mm x 80mm, 2 layers. Standard, cheap design rules like 6 thou / 6 thou will work fine.
+
+The Zip file in this repo contains a standard, fabrication-ready set of Gerber files for a fab such as OSHPark or PCBWay.
+
+Board and schematic (.brd / .sch files) are in Autodesk Eagle format.
+
 ![](./image.jpeg)
